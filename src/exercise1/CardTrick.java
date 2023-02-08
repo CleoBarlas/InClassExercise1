@@ -73,7 +73,7 @@ public class CardTrick {
 
     /**
      * 
-     * @author Cleo Barlas 
+     * @author Cleo Barlas February 2023 
      * 
      * 
      * I'M DONE!!
